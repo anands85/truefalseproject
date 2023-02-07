@@ -1,6 +1,6 @@
 ## True or False Text Detection ##
 
-This python FastAPI module consists of intelligent query completion engine using the OpenAI Text Completion API.
+This python FastAPI module consists of an intelligent query completion engine using the OpenAI Text Completion API.
 
 ## Installation ##
 
