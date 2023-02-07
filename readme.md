@@ -26,6 +26,6 @@ The response of the API are:
 
 ## Sample Screenshots of the API outputs ##
 
-![True or False Detection General Text](truefalseimage.jpg)
+![True or False Detection General Text](falsetrueimage.jpg)
 
-![True or False Detection Medical Text](truefalseimage_medical.jpg)
+![True or False Detection Medical Text](falsetrueimage_medical.jpg)
