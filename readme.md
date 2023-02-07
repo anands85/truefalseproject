@@ -23,3 +23,9 @@ Open the URL link below and change the query accordingly.
 The response of the API are:
 
 `{"query":"Scanner is an input device","output_text":"False"}`
+
+## Sample Screenshots of the API outputs ##
+
+![True or False Detection General Text](truefalseimage.jpg)
+
+![True or False Detection Medical Text](truefalseimage_medical.jpg)
