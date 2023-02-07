@@ -11,7 +11,7 @@ app = FastAPI()
 @app.get("/trueorfalse/{query}")
 def return_reponse(query: str):
     openai.api_key = openai_key.openai_key #replace with the OpenAI key
-    true_false_text = 'True or False.' #additional OpenAI completion text to check for True or False.
+    true_false_text = '. True or False.' #additional OpenAI completion text to check for True or False.
     combined_text = query + true_false_text #concatenate the query and additional completion text
     # response for the combined text
     response = openai.Completion.create(
