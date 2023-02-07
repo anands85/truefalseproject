@@ -26,6 +26,10 @@ The response of the API are:
 
 ## Sample Screenshots of the API outputs ##
 
+Text: 'Scanner is an input device.'
+
 ![True or False Detection General Text](falsetrueimage.jpg)
+
+Text: 'Shortness of breath, light-headedness, and pain in your arms, back, neck, jaw, or stomach are signs of a heart attack.'
 
 ![True or False Detection Medical Text](falsetrueimage_medical.jpg)
